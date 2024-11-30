@@ -1,0 +1,26 @@
+{
+  "ticket_number": "123456789",
+  "passenger": {
+    "name": "Jan Kowalski",
+    "age": 35,
+    "passport": "AB1234567"
+  },
+  "departure": {
+    "station": "Warszawa Centralna",
+    "time": "2024-12-05T09:15:00",
+    "platform": 5
+  },
+  "arrival": {
+    "station": "Kraków Główny",
+    "time": "2024-12-05T12:45:00",
+    "platform": 3
+  },
+  "price": 120.50,
+  "class": "First Class",
+  "seat": {
+    "number": "A12",
+    "type": "Window"
+  },
+  "special_requests": ["Wheelchair access", "Vegetarian meal"],
+  "ticket_type": "One-way"
+}

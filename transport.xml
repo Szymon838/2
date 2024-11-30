@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+    <vehicle type="car" brand="Toyota" fuel="petrol">
+        <model>Corolla</model>
+        <year>2020</year>
+        <color>Blue</color>
+        <owner>Jan Kowalski</owner>
+    </vehicle>
+
+    <vehicle type="bike" brand="Giant" fuel="none">
+        <model>Escape 3</model>
+        <year>2019</year>
+        <color>Red</color>
+        <owner>Anna Nowak</owner>
+    </vehicle>
+
+    <vehicle type="train" brand="PKP Intercity" fuel="electricity">
+        <model>EIC Pendolino</model>
+        <year>2018</year>
+        <color>White</color>
+        <owner>Polskie Koleje Państwowe</owner>
+    </vehicle>
+</transport>
