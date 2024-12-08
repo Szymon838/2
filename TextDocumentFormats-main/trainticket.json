@@ -1,0 +1,35 @@
+{
+    "ticket": {
+      "ticketNumber": "PKP1234567890",
+      "departure": {
+        "station": "Warszawa",
+        "date": "2024-12-05",
+        "time": "08:45",
+        "platform": 5
+      },
+      "arrival": {
+        "station": "Krakow Glowny",
+        "date": "2024-12-05",
+        "time": "12:15",
+        "platform": 7
+      },
+      "train": {
+        "trainNumber": "IC 1234",
+        "type": "Intercity",
+        "class": "Second Class"
+      },
+      "price": {
+        "amount": 149.90,
+        "currency": "PLN"
+      },
+      "passenger": {
+        "name": "Bartosz Walasek",
+        "age": 29,
+        "ticketType": "One-way"
+      },
+      "seat": {
+        "carriage": 2,
+        "seatNumber": 10
+      }
+    }
+  }

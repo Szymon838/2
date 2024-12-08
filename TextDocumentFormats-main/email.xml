@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email>
+    <sender>bartoszwalasek@onet.eu</sender>
+    <recipient>student240013@student.uek.pl</recipient>
+    <subject>Przypomnienie o spotkaniu</subject>
+    <body>
+Drogi Studencie,
+        Przypominamy o naszym spotkaniu zaplanowanym na jutro o godzinie 10:00.
+        Proszę dać mi znać, jeśli nastąpią jakieś zmiany w Twojej dostępności.
+        Best regards,
+        Bartosz
+    </body>
+</email>

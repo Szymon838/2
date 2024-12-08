@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+    <meansOfTransport type="public" fuel="electric">
+        <name>Bus</name>
+        <capacity>60</capacity>
+        <routes>City Center to Suburbs</routes>
+        <averageSpeed unit="km/h">40</averageSpeed>
+    </meansOfTransport>
+
+    <meansOfTransport type="private" fuel="petrol">
+        <name>Car</name>
+        <capacity>5</capacity>
+        <color>Black</color>
+        <averageSpeed unit="km/h">80</averageSpeed>
+    </meansOfTransport>
+
+    <meansOfTransport type="public" fuel="electric">
+        <name>Train</name>
+        <capacity>200</capacity>
+        <stations>Central Station to Riverside</stations>
+        <averageSpeed unit="km/h">120</averageSpeed>
+    </meansOfTransport>
+</transport>

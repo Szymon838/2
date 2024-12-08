@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smartphones>
+    <smartphone brand="Apple" model="Iphone 15 Plus" releaseYear="2023">
+        <specs>
+            <screenSize unit="inch">6.69</screenSize>
+            <batteryCapacity unit="mAh">3349</batteryCapacity>
+            <storage unit="GB">256</storage>
+            <camera unit="MP">24</camera>
+        </specs>
+        <price currency="USD">899</price>
+    </smartphone>
+</smartphones>
